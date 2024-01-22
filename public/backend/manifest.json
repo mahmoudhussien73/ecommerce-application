@@ -1,0 +1,26 @@
+{
+  "_bootstrap-x4pWJWNy.js": {
+    "file": "assets/bootstrap-x4pWJWNy.js"
+  },
+  "resources/css/backend.css": {
+    "file": "assets/backend-ShgSH7Lf.css",
+    "isEntry": true,
+    "src": "resources/css/backend.css"
+  },
+  "resources/js/backend.js": {
+    "file": "assets/backend-OIAgGQqC.js",
+    "imports": [
+      "_bootstrap-x4pWJWNy.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/backend.js"
+  },
+  "resources/js/vueapp.js": {
+    "file": "assets/vueapp-GPVg7lHN.js",
+    "imports": [
+      "_bootstrap-x4pWJWNy.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/vueapp.js"
+  }
+}

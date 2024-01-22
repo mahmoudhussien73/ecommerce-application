@@ -1,0 +1,40 @@
+{
+  "resources/css/frontend.css": {
+    "file": "assets/frontend-zaYdYph2.css",
+    "isEntry": true,
+    "src": "resources/css/frontend.css"
+  },
+  "resources/front/fonts/roboto/Roboto-Bold.ttf": {
+    "file": "assets/Roboto-Bold-Z8SZiOJb.ttf",
+    "src": "resources/front/fonts/roboto/Roboto-Bold.ttf"
+  },
+  "resources/front/fonts/roboto/Roboto-Light.ttf": {
+    "file": "assets/Roboto-Light-NcKAPrOX.ttf",
+    "src": "resources/front/fonts/roboto/Roboto-Light.ttf"
+  },
+  "resources/front/fonts/roboto/Roboto-Medium.ttf": {
+    "file": "assets/Roboto-Medium-D4uMHpgn.ttf",
+    "src": "resources/front/fonts/roboto/Roboto-Medium.ttf"
+  },
+  "resources/front/fonts/roboto/Roboto-Regular.ttf": {
+    "file": "assets/Roboto-Regular-dtmZfjQC.ttf",
+    "src": "resources/front/fonts/roboto/Roboto-Regular.ttf"
+  },
+  "resources/front/fonts/roboto/Roboto-Thin.ttf": {
+    "file": "assets/Roboto-Thin-scS-4Zr0.ttf",
+    "src": "resources/front/fonts/roboto/Roboto-Thin.ttf"
+  },
+  "resources/front/images/banners/bg-cpu.jpg": {
+    "file": "assets/bg-cpu-w1DHE884.jpg",
+    "src": "resources/front/images/banners/bg-cpu.jpg"
+  },
+  "resources/front/images/banners/bg-pattern.svg": {
+    "file": "assets/bg-pattern-vpPVxYp_.svg",
+    "src": "resources/front/images/banners/bg-pattern.svg"
+  },
+  "resources/js/frontend.js": {
+    "file": "assets/frontend-SQStyRPW.js",
+    "isEntry": true,
+    "src": "resources/js/frontend.js"
+  }
+}
