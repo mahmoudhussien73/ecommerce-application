@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Login - {{ config('app.name') }}</title>
     {{-- @vite('resources/css/backend.css') --}}
-    
+    <link rel="stylesheet" href="{{ asset('admin/css/main.css') }}">
 </head>
 <body>
 <section class="material-half-bg">
